@@ -1,1 +1,3 @@
 I'm being moved to a new folder outside of the root folder!
+
+I'm being edited so I can show how to push to a remote GitHub Repo!
